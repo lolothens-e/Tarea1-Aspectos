@@ -1,0 +1,9 @@
+Adapter\WeatherApp.class
+Singleton\Logger.class
+Adapter\TemperatureAdapter.class
+Adapter\WeatherAPIF.class
+Singleton\SecuritySystem.class
+Adapter\WeatherAPIK.class
+Singleton\FinanceSystem.class
+Singleton\SingletonConsole.class
+com\mycompany\tareaaspectos\TareaAspectos.class
